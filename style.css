@@ -1,4 +1,8 @@
-
+*
+{
+    margin: 0 16px;
+    padding: 24px 0;
+}
 .cabeçalho   { 
     background-color: #383D58;  
     color:white;
@@ -9,7 +13,7 @@
     .cabeçalho-imagem{
      width: 20%;
     }
-    .cabecalho-lista-item{
+    .cabeçalho-lista-item{
         display: inline-block;
         margin: 0 16px;
     }
